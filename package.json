@@ -1,0 +1,12 @@
+{
+  "name": "evaluacion-practica-clase-30",
+  "version": "1.0.0",
+  "description": "Proyecto para evaluacion practica clase 30 elabroracion de un diagrama de base de datos y se respectivo scipt",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Abraham Montelongo",
+  "license": "ISC"
+}
